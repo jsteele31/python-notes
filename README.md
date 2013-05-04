@@ -51,6 +51,9 @@ my_list.remove(value)
 
 for varible in listName:
 for i in range(0, 3):
+for index, number in enumerate(list)
+for a, b in zip(lista, listb) # zip will create pairs of elements when passed two lists, and will stop at the end of the shorter list.
+else
 
 # RANGE #
 range(1) # => [0]
@@ -100,5 +103,22 @@ raw_input("question")
 
 from random import randrange
 randrange(0, 10)
+
+new_list = [x for x in range(1,6)  if (x*2)%3 == 0]
+[ : : ]
+
+lambda = def byThree(x): return x*3
+lambda x: x * 3
+lambda variable: expression
+
+filter(condition, list)
+
+############################################################
+
+class Animal(object)
+  def __init__(this, parameters):
+    this.parameters = parameters
+    
+
 
 
