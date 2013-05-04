@@ -121,4 +121,19 @@ class Animal(object)
     
 
 
+super(DerivedClass, self).meth()
+__repr__() # representation
+__enter__()
+__exit__()
+############################################
+
+f = open("file", "command") command "w" "r+"
+f.write()
+f.close()
+
+with open("file", "mode") as variable:
+
+my_file.closed
+
+
 
